@@ -17,6 +17,6 @@ POST - `/ai`
 }
 ```
 
-don't forget to add var env from `.env.example`
+Create a new file `.env` and copy the content from `.env.example` and update the values
 
 You can use fly.io to deploy this project
