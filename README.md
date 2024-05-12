@@ -1,4 +1,4 @@
-## `couldflare-ai-api`
+## `cloudflare-ai-api`
 
 Simple bypass to access cloudflare ai from web clients
 
